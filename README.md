@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Cloud computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shwetayadav003?tab=repositories](https://github.com/Shwetayadav003?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Shwetayadav003]
 
 - 📫 How to reach me **sy413061@gmail.com**
 
